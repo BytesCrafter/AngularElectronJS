@@ -1,4 +1,4 @@
-# Desktop
+# Angular ElectronJS project for Web, Windows, Mac, and Linux
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
